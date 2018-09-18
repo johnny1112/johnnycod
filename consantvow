@@ -1,5 +1,5 @@
-import java.io.;
-import java.util.;
+import java.io.*;
+import java.util.*;
 class vowels
 { 
 publi static void main(String args[]) 
