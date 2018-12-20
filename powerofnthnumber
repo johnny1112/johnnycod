@@ -1,3 +1,0 @@
-m=raw_input()
-j,k=m.split()
-print (j**k)
